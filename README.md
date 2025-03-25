@@ -22,6 +22,60 @@ Welcome to Deep Learning Practice! This repository contains my day-by-day learni
 
  README.md        # Project documentation
 
+📊 Topics Covered
+
+📚 Neural Networks & Optimization
+
+Backpropagation Basics
+
+Backpropagation using Keras
+
+Batch Normalization for Optimization
+
+Batch vs. Stochastic Gradient Descent (SGD)
+
+Feature Scaling (Standardization & Normalization)
+
+Exponentially Weighted Moving Average (EWMA)
+
+Xavier (Glorot) & He Weight Initialization
+
+Zero & Ones Initialization for Neural Networks
+
+🔧 Regularization & Generalization
+
+Dropout Regularization (Classification & Regression)
+
+L2 Regularization Impact on Performance
+
+Early Stopping with Keras Callbacks
+
+Data Augmentation for Model Generalization
+
+🔬 Advanced Deep Learning Techniques
+
+Vanishing Gradient Problem & Solutions
+
+Hyperparameter Tuning in Keras
+
+Keras LeNet Model Implementation
+
+Impact of Padding in Keras
+
+🏆 Real-World Deep Learning Projects
+
+Cat vs Dog Image Classification (CNN) 
+
+MNIST Handwritten Digit Recognition 
+
+Object Detection using YOLOv5
+
+Customer Churn Prediction using ANN
+
+Graduate Admission Prediction using ANN
+
+ 
+
 🛠 Technologies Used
 
 Python 🐍
