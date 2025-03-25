@@ -58,23 +58,6 @@ Run the scripts in the scripts/ directory to train models on various datasets.
 python scripts/train_cnn.py
 
 
-
-🔢 MNIST Handwritten Digit Recognition
-
-Dataset: MNIST
-
-Model: Deep Neural Network (DNN) with TensorFlow
-
-Accuracy: 98% on test data
-
-🌆 Object Detection using YOLOv5
-
-Dataset: COCO
-
-Model: YOLOv5 pretrained model for object detection
-
-Use Case: Detect multiple objects in real-world images
-
 🔮 Future Roadmap
 
 ✅ Add Transfer Learning using ResNet, VGG16, and EfficientNet
