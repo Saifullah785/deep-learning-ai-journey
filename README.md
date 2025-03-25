@@ -79,5 +79,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 If you find this repository helpful, please star ⭐ it on GitHub and share your feedback!
 
-📌 Author: Saifullah (@Saifullah785)📌 GitHub: Saifullah785
 
