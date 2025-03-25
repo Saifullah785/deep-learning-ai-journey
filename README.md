@@ -7,12 +7,19 @@ Welcome to Deep Learning Practice! This repository contains my day-by-day learni
 📂 Repository Structure
 
 📦 deep-learning-practice
+
  datasets/       # Contains datasets used for training models
+
  notebooks/       # Jupyter notebooks for experiments and model training
+
  models/          # Saved trained models for inference
+
  scripts/         # Python scripts for preprocessing, training, and evaluation
+
  results/         # Visualizations and performance metrics
+
  requirements.txt # List of required dependencies
+
  README.md        # Project documentation
 
 🛠 Technologies Used
