@@ -7,13 +7,13 @@ Welcome to Deep Learning Practice! This repository contains my day-by-day learni
 📂 Repository Structure
 
 📦 deep-learning-practice
-├── datasets/        # Contains datasets used for training models
-├── notebooks/       # Jupyter notebooks for experiments and model training
-├── models/          # Saved trained models for inference
-├── scripts/         # Python scripts for preprocessing, training, and evaluation
-├── results/         # Visualizations and performance metrics
-├── requirements.txt # List of required dependencies
-└── README.md        # Project documentation
+ datasets/       # Contains datasets used for training models
+ notebooks/       # Jupyter notebooks for experiments and model training
+ models/          # Saved trained models for inference
+ scripts/         # Python scripts for preprocessing, training, and evaluation
+ results/         # Visualizations and performance metrics
+ requirements.txt # List of required dependencies
+ README.md        # Project documentation
 
 🛠 Technologies Used
 
@@ -50,15 +50,7 @@ Run the scripts in the scripts/ directory to train models on various datasets.
 
 python scripts/train_cnn.py
 
-📊 Projects Included
 
-🐱🐶 Cat vs Dog Image Classification (CNN)
-
-Dataset: Kaggle Dogs vs. Cats
-
-Model: Convolutional Neural Network (CNN)
-
-Accuracy: ~85-90% validation accuracy
 
 🔢 MNIST Handwritten Digit Recognition
 
